@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: membership
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: xyjkhrq
+Implementation-Vendor-Id: cn.lger
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/membership
+Created-By: Maven Integration for Eclipse
+
